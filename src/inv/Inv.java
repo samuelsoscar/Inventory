@@ -17,7 +17,7 @@ public class Inv {
        
       /* Login login = new Login();
        login.setVisible(true);
-       login.setLocationRelativeTo(null);
+       login.setLocationRelativeTo(null);..
        */
        MenuPrincipal screen = new MenuPrincipal();
        screen.setVisible(true);
